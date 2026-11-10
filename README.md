@@ -1,3 +1,3 @@
 # DriesTech
 
-[Homepage](en/index.html)
+[Homepage](index.html)
